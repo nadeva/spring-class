@@ -14,7 +14,7 @@
     <name>Spring Data</name>
 
     <properties>
-        <version.java>11</version.java>
+        <version.java>1.8</version.java>
         <h2.version>1.4.197</h2.version>
     </properties>
 

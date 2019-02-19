@@ -16,7 +16,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <version.java>11</version.java>
+        <version.java>1.8</version.java>
         <version.junit>4.12</version.junit>
         <spring-context.version>5.1.5.RELEASE</spring-context.version>
         <assertj-core.version>3.11.1</assertj-core.version>
