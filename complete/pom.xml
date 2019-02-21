@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>fr.nadeva.spring-class</groupId>
+        <artifactId>parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+
+    <groupId>fr.nadeva.spring-class</groupId>
+    <artifactId>complete</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>Spring class complete</name>
+    <description>Test classes for Java EE training</description>
+    <packaging>pom</packaging>
+    <modules>
+        <module>dependencyinjection-complete</module>
+        <module>spring-data-complete</module>
+        <module>rest-complete</module>
+    </modules>
+
+</project>
